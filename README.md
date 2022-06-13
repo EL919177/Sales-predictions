@@ -18,5 +18,7 @@ Now, we have previously mentioned, the data had a varied set of missing data in 
 Even still, we would recommend, as to ascertain a better predictive model to encourage limitations on data entry so as to accurately reflect the 
 features that would determine better sales performance. 
 
+The Model we would recommend is the Decision Tree Model in which, through the r2 and Mean Absolute metrics, we were able to determine in retrieving a better score and predict better test data in comparision to the alternative Linear Regression model. Both prevent extreme overfitting as a result. 
+
 For any additional questions, please contact email
 edwin.ramirez@coding-dojo.com
